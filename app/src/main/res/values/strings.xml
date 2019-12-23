@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Multi Language</string>
+    <string name="hello">Hello</string>
+    <string name="how_are_you">How are you</string>
+    <string name="text_hindi" translatable="false">हिंदी</string>
+    <string name="text_english" translatable="false">English</string>
+    <string name="text_bangla" translatable="false">" বাংলা "</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

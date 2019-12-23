@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">হ্যালো</string>
+    <string name="how_are_you">কেমন আছো ?</string>
+    <string name="action_settings">সেটিংস </string>
+</resources>
